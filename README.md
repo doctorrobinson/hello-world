@@ -1,8 +1,5 @@
 # hello-world
 
-Here's a thing about me.
+Nobody knows.
 
-And here's another.
-
-
-And finally, a last one.
+The troubles I've seen.
